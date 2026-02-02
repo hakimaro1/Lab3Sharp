@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WinFormsControlLibraryTimer/WinFormsControlLibraryTimer.csproj" />
+  <Project Path="WinTimer1/WinTimer1.csproj" />
+</Solution>

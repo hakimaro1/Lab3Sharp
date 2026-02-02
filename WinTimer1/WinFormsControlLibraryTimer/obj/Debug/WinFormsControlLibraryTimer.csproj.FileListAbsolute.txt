@@ -1,0 +1,8 @@
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinFormsControlLibraryTimer\bin\Debug\WinFormsControlLibraryTimer.dll
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinFormsControlLibraryTimer\bin\Debug\WinFormsControlLibraryTimer.pdb
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinFormsControlLibraryTimer\obj\Debug\WinFormsControlLibraryTimer.csproj.AssemblyReference.cache
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinFormsControlLibraryTimer\obj\Debug\WinFormsControlLibraryTimer.UserControl1.resources
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinFormsControlLibraryTimer\obj\Debug\WinFormsControlLibraryTimer.csproj.GenerateResource.cache
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinFormsControlLibraryTimer\obj\Debug\WinFormsControlLibraryTimer.csproj.CoreCompileInputs.cache
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinFormsControlLibraryTimer\obj\Debug\WinFormsControlLibraryTimer.dll
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinFormsControlLibraryTimer\obj\Debug\WinFormsControlLibraryTimer.pdb

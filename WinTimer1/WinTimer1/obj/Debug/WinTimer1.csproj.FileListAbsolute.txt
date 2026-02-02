@@ -1,0 +1,14 @@
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinTimer1\bin\Debug\WinTimer1.exe.config
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinTimer1\bin\Debug\WinTimer1.exe
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinTimer1\bin\Debug\WinTimer1.pdb
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinTimer1\obj\Debug\WinTimer1.csproj.AssemblyReference.cache
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinTimer1\obj\Debug\WinTimer1.Properties.Resources.resources
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinTimer1\obj\Debug\WinTimer1.UserControlTimer.resources
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinTimer1\obj\Debug\WinTimer1.csproj.GenerateResource.cache
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinTimer1\obj\Debug\WinTimer1.csproj.CoreCompileInputs.cache
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinTimer1\obj\Debug\WinTimer1.exe
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinTimer1\obj\Debug\WinTimer1.pdb
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinTimer1\obj\Debug\WinTimer1.Form1.resources
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinTimer1\bin\Debug\WinFormsControlLibraryTimer.dll
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinTimer1\bin\Debug\WinFormsControlLibraryTimer.pdb
+C:\Users\sanya\Desktop\приложения c#\Sharp\Lab3\WinTimer1\WinTimer1\obj\Debug\WinTimer1.csproj.Up2Date

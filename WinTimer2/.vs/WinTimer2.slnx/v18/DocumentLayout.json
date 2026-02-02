@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sanya\\Desktop\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F c#\\Sharp\\Lab3\\WinTimer2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52AD15CD-01CD-4BDD-B9F5-198E0AA1A60B}|WinTimer2\\WinTimer2.csproj|c:\\users\\sanya\\desktop\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F c#\\sharp\\lab3\\wintimer2\\wintimer2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52AD15CD-01CD-4BDD-B9F5-198E0AA1A60B}|WinTimer2\\WinTimer2.csproj|solutionrelative:wintimer2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AD15CD-01CD-4BDD-B9F5-198E0AA1A60B}|WinTimer2\\WinTimer2.csproj|c:\\users\\sanya\\desktop\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F c#\\sharp\\lab3\\wintimer2\\wintimer2\\usercontroltimer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52AD15CD-01CD-4BDD-B9F5-198E0AA1A60B}|WinTimer2\\WinTimer2.csproj|solutionrelative:wintimer2\\usercontroltimer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52AD15CD-01CD-4BDD-B9F5-198E0AA1A60B}|WinTimer2\\WinTimer2.csproj|c:\\users\\sanya\\desktop\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F c#\\sharp\\lab3\\wintimer2\\wintimer2\\usercontroltimer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{52AD15CD-01CD-4BDD-B9F5-198E0AA1A60B}|WinTimer2\\WinTimer2.csproj|solutionrelative:wintimer2\\usercontroltimer2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 352,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControlTimer2.cs",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F c#\\Sharp\\Lab3\\WinTimer2\\WinTimer2\\UserControlTimer2.cs",
+              "RelativeDocumentMoniker": "WinTimer2\\UserControlTimer2.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F c#\\Sharp\\Lab3\\WinTimer2\\WinTimer2\\UserControlTimer2.cs",
+              "RelativeToolTip": "WinTimer2\\UserControlTimer2.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvygAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T10:32:19.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControlTimer2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F c#\\Sharp\\Lab3\\WinTimer2\\WinTimer2\\UserControlTimer2.cs",
+              "RelativeDocumentMoniker": "WinTimer2\\UserControlTimer2.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F c#\\Sharp\\Lab3\\WinTimer2\\WinTimer2\\UserControlTimer2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinTimer2\\UserControlTimer2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T10:30:52.107Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\sanya\\Desktop\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F c#\\Sharp\\Lab3\\WinTimer2\\WinTimer2\\Form1.cs",
+              "RelativeDocumentMoniker": "WinTimer2\\Form1.cs",
+              "ToolTip": "C:\\Users\\sanya\\Desktop\\\u043F\u0440\u0438\u043B\u043E\u0436\u0435\u043D\u0438\u044F c#\\Sharp\\Lab3\\WinTimer2\\WinTimer2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WinTimer2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-02T10:27:48.277Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
